@@ -1,5 +1,6 @@
 # lucode
 ![alt text](sample.png)
+![alt text](sample-2.jpg)
 
 Emoji *substitution cipher* encoder
 
